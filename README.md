@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-   ___   ___  __  __  ___   ___  _   _ _     ___ _   _   _   __  __
-  / _ \ / __||  \/  ||_ _| |_ _|| | | | |   / __| | | | /_\ |  \/  |
- | (_) |\__ \| |\/| | | |   | | | |_| | |__ \__ \ |_| |/ _ \| |\/| |
-  \___/ |___/|_|  |_||___|  |_|  \___/|____||___/\___//_/ \_\_|  |_|
-```
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Asmi+Pulgam;AI+%2F+ML+Engineer;Software+Developer)](https://git.io/typing-svg)
 ### ✦ Software Engineer · AI/ML Explorer · Master's @ ASU ✦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asmipulgam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmipulgam)
